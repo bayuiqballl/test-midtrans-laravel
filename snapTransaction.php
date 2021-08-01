@@ -32,4 +32,3 @@ $params = array(
 $snapUrlRedirect = \Midtrans\Snap::createTransaction($params)->redirect_url;
 
 
-echo $link;
