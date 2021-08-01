@@ -1,0 +1,13 @@
+{
+    "name": "bayuiqballl13/test-midtrans-laravel",
+    "authors": [
+        {
+            "name": "Bayu Muhammad Iqbal",
+            "email": "42398906+bayuiqballl@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "midtrans/midtrans-php": "^2.4",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
